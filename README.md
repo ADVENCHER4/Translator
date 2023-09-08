@@ -1,5 +1,8 @@
 # Translator
 Simple translator that can translate list of words from file
+## Requirements
+python
+translate
 ## input.txt example
 ```text
 1 cybersecurity
